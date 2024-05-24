@@ -1,0 +1,53 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.logo{
+    background-color: rgb(219, 214, 214);
+    text-align: center;
+    h1{
+        font-size: 25px;
+    }
+    h2{
+        font-size: 20px;
+        padding-bottom: 10px;
+        color: blue;
+    }
+}
+.eua{
+    text-align: center;
+    background-color: blue;
+    font-size: 23px;
+    color: white;
+    padding-bottom: 14px;
+   margin: 0px 18%;
+   img{
+    padding-top: 15px;
+   }
+}
+.espanhol{
+    text-align: center;
+    font-size: 23px;
+    padding-bottom: 14px;
+    margin: 0px 18%;
+    img{
+        padding-top: 20px;
+    }
+}
+.frances{
+    text-align: center;
+    background-color: blue;
+    font-size: 23px;
+    color: white;
+    padding-bottom: 14px;
+    margin: 0px 18%;
+    img{
+        padding-top: 20px;
+    }
+}
+.final{
+    text-align: center;
+    color: rgb(61, 163, 247);
+    padding-left: 500px;
+    padding-right: 500px;
+}
